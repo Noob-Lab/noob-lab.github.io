@@ -2,23 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://noob-lab.github.io/2017/03/09/first/</loc>
+    <loc>https://noob-lab.github.io/2017/03/16/hello-world/</loc>
     
-    <lastmod>2017-03-10T06:38:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noob-lab.github.io/2017/03/10/hello-world/</loc>
-    
-    <lastmod>2017-03-10T02:21:27.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noob-lab.github.io/about/index.html</loc>
-    
-    <lastmod>2017-03-10T02:21:27.000Z</lastmod>
+    <lastmod>2017-03-16T08:37:56.000Z</lastmod>
     
   </url>
   
@@ -31,6 +17,13 @@
   
   <url>
     <loc>https://noob-lab.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-03-10T02:21:27.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noob-lab.github.io/about/index.html</loc>
     
     <lastmod>2017-03-10T02:21:27.000Z</lastmod>
     
